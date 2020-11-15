@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :hammer: I’m currently working on cira
+- :hammer: I’m currently working on [cira](https://github.com/AxelGard/cira).
 - :books: I’m currently studing Software Engineering at Linköping University
 - :file_folder: My [portfolio axelgard.github.io](https://axelgard.github.io/)
 - 📫 How to reach me: axel.gard@tutanota.com
