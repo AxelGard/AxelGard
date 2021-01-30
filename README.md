@@ -6,5 +6,6 @@
 - 📫 How to reach me: axel.gard@tutanota.com
 - :seedling: [Stack Overflow](https://stackoverflow.com/users/14014027/axelg)
 
+![GitHub User's stars](https://img.shields.io/github/stars/AxelGard?style=social)
 
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/Axel_Gard)
