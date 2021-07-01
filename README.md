@@ -5,5 +5,6 @@
 - :file_folder: My [portfolio axelgard.github.io](https://axelgard.github.io/)
 - 📫 How to reach me: axel.gard@tutanota.com
 - :seedling: [Stack Overflow](https://stackoverflow.com/users/14014027/axelg)
+- :newspaper: [blog](https://axelgard.github.io/blog/)
 
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/Axel_Gard)
