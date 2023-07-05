@@ -6,7 +6,7 @@
 - :file_folder: My [portfolio axelgard.github.io](https://axelgard.github.io/)
 - 📫 How to reach me: axel.gard@tutanota.com
 - :seedling: [Stack Overflow](https://stackoverflow.com/users/14014027/axelg)
-- :loudspeaker: [LinkedIn](https://www.linkedin.com/in/axel-gard-110494166/)
+- :necktie: [LinkedIn](https://www.linkedin.com/in/axel-gard-110494166/)
 - :newspaper: [blog](https://axelgard.github.io/blog/)
 
 [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/Axel_Gard)
