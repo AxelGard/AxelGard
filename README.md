@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :hammer: I’m currently working on **[cira](https://github.com/AxelGard/cira)** and **[inkpot](https://github.com/AxelGard/inkpot)**.
-- :books: I’m currently studing [Master of Science in Computer Science and Software Engineering at Linköping University](https://liu.se/en/education/program/6cmju)
+- 🎓 I have a [Master of Science in Computer Science and Software Engineering from Linköping University](https://liu.se/en/education/program/6cmju)
 - :page_with_curl: My thesis [seekIPNS](https://github.com/AxelGard/seek-ipns)
 - :file_folder: My [portfolio axelgard.github.io](https://axelgard.github.io/)
 - 📫 How to reach me: axel.gard@tutanota.com
